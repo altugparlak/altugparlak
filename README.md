@@ -6,7 +6,7 @@ I'm **Altuğ**, a passionate developer with a keen interest in mobile applicatio
 
 ## 🔭 I’m currently working on
 - **Fighter UAV Competition**: Designing and developing GUI, autonomous flight, and algorithms.
-- **Mobile weather app**: An application that allows you to create your own training plan according to weather conditions.
+- **[Mobile Weather App](https://github.com/yourusername/Mobile-Weather-App)**: An application that allows you to create your own training plan according to weather conditions.
 
 ## 🌱 I’m currently learning
 - React Native
