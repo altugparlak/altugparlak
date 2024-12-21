@@ -6,7 +6,7 @@ I'm **Altuğ**, a passionate developer with a keen interest in mobile applicatio
 
 ## 🔭 I’m currently working on
 - **Fighter UAV Competition**: Designing and developing GUI, autonomous flight, and algorithms.
-- MCST Algorithm implementation
+- MCTS Algorithm implementation
 - **[Mobile Weather App](https://apps.apple.com/tr/app/trail-forecast/id6463749388)**: An application that allows you to create your own training plan according to weather conditions.
 
 ## 🌱 I’m currently learning
