@@ -208,26 +208,6 @@ A logistic regression implementation developed from scratch in C++, using OpenMP
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  height="170"
-  src="./profile/github-stats.svg"
-  alt="Altuğ Parlak's GitHub statistics"
-/>
-
-<img
-  height="170"
-  src="./profile/top-languages.svg"
-  alt="Altuğ Parlak's most-used programming languages"
-/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I am interested in collaborating on projects related to:
