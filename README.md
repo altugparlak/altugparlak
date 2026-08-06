@@ -212,9 +212,17 @@ A logistic regression implementation developed from scratch in C++, using OpenMP
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=altugparlak&show_icons=true&hide_border=true&theme=transparent" alt="Altuğ Parlak's GitHub statistics">
+<img
+  height="170"
+  src="./profile/github-stats.svg"
+  alt="Altuğ Parlak's GitHub statistics"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altugparlak&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages">
+<img
+  height="170"
+  src="./profile/top-languages.svg"
+  alt="Altuğ Parlak's most-used programming languages"
+/>
 
 </div>
 
