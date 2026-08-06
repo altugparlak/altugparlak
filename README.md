@@ -10,7 +10,7 @@ I develop software systems that connect autonomous vehicles, artificial intellig
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Altuğ_Parlak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/altug-p-579b7b158)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Altuğ_Parlak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altu%C4%9F-p-579b7b158/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alparlak1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-altugparlak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/altugparlak)
 
@@ -246,7 +246,7 @@ I am interested in collaborating on projects related to:
 
 ### Feel free to explore my repositories or contact me.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/altug-p-579b7b158)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altu%C4%9F-p-579b7b158/)
 [![Email](https://img.shields.io/badge/Email-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alparlak1@gmail.com)
 
 </div>
